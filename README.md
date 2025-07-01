@@ -46,24 +46,6 @@ Hospital Management System using MySQL, Php and Bootstrap
   - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/myhmsp was used as the url).
   
 
-### Starting Apache And MySQL in XAMPP:
-  The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
-  
-  
-<p align="center"><img src="https://user-images.githubusercontent.com/36665975/59350977-fcc68900-8d3a-11e9-9450-e5c478497caa.png"></img></p>
-
-## GETTING INTO THE PROJECT:
-Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly. Fig 1.1 shows the ‘Home’ page of our project.
-
-![image](https://user-images.githubusercontent.com/36665975/66569676-ad2d8800-eb89-11e9-94e5-ea407622a1fe.png)
-
-'About Us' page (Fig 1.2)  allows us to get some more information about the quality and the services of the hospital.
-
-![image](https://user-images.githubusercontent.com/36665975/66569816-f4b41400-eb89-11e9-9377-d9ce53ded088.png)
-
-‘Contact’ page allows users to provide feedback or queries about the services of the hospital. Fig 1.3 shows the ‘Contact’ page.
-
-![image](https://user-images.githubusercontent.com/36665975/66569890-157c6980-eb8a-11e9-9b2f-c0e8a6ef702e.png)
 
 The ‘Home’ page consists of 3 modules:
 1. Patient Module
